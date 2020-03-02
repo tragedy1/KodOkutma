@@ -1,2 +1,2 @@
 # KodOkutma
-yeni depo
+KodOkutma Sistemi Yazmak İstiyorum
